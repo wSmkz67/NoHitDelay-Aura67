@@ -1,0 +1,11 @@
+[
+{
+  "modid": "hitdelayfix",
+  "name": "HitDelayFix",
+  "description": "Remove o atraso de 10 ticks do clique esquerdo depois de errar um golpe (1.8.9). Liga/desliga com /nohitdelay.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "authorList": [],
+  "dependencies": []
+}
+]
